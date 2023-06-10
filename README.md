@@ -1,7 +1,7 @@
 ## parser_zakupki_gov_ru
 
 <p align="center">
-      <img src="https://github.com/DlasWEB/parser_zakupki_gov_ru/master/img_for_readme/logo.jpg" alt="Лого проекта">
+      <img src="img_for_readme/logo.jpg" alt="Лого проекта">
 </p>
 
 ## Описание
@@ -19,7 +19,7 @@
 ## Использование
 
 <p align="center">
-      <img src="https://github.com/DlasWEB/parser_zakupki_gov_ru/master/img_for_readme/01.jpg" alt="Лого проекта">
+      <img src="img_for_readme/01.jpg" alt="Лого проекта">
 </p>
 
 1. Занесите ссылки на аукционы в файл `urls.txt` в формате `https://zakupki.gov.ru/epz/order/notice/zk20/view/common-info.html?regNumber=0744200000223004677`.
