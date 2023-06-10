@@ -111,7 +111,7 @@ def get_data_selenium():
             source_path = absolute_path_to_folder_with_script
             destination_path = f"{absolute_path_to_folder_with_script}data/{new_name_1}/"
             files = os.listdir(source_path)
-            files_for_remove = ['urls.txt', 'venv', 'chromedriver', 'main.py', 'data', '.idea', 'README.md', '.gitignore', 'LICENSE']
+            files_for_remove = ['urls.txt', 'venv', 'chromedriver', 'main.py', 'data', '.idea', 'README.md', '.gitignore', 'LICENSE', '.git', 'img_for_readme']
             for i in files_for_remove:
                 files.remove(i)
             for file in files:
